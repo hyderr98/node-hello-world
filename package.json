@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "An example from scratch in CSC 3221",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyderr98/node-hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spu"
+  ],
+  "author": "Missa Jar Jar Banks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyderr98/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/hyderr98/node-hello-world#readme"
+}
