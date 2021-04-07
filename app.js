@@ -11,7 +11,7 @@ const server = http.createServer((request, response) => {
 
 server.listen(port, (err) => {
   if(err){
-    return console.log('Something is wrong, shut to light...');
+    return console.log('Something is wrong, shut the light...');
   }
   console.log(`Server Listening on ${port}`);
 });
